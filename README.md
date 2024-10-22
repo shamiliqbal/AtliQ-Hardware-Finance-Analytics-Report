@@ -46,4 +46,8 @@ AtliQ Hardware experienced rapid growth in sales from 2019 to 2021 across all ma
 
 📑📉**Reports**
 
+P&L For Markets
+
+https://github.com/shamiliqbal/AtliQ-Hardware-Finance-Analytics-Report/blob/main/P%26L%20For%20Markets.pdf
+
 
