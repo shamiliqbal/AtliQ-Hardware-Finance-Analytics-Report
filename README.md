@@ -46,18 +46,38 @@ AtliQ Hardware experienced rapid growth in sales from 2019 to 2021 across all ma
 
 📑📉**Reports**
 
-P&L For Markets
+➣**P&L For Markets**
 
 https://github.com/shamiliqbal/AtliQ-Hardware-Finance-Analytics-Report/blob/main/P%26L%20For%20Markets.pdf
 
-P&L By Fiscal Year
+➣**P&L By Fiscal Year**
 
 https://github.com/shamiliqbal/AtliQ-Hardware-Finance-Analytics-Report/blob/main/P%26L%20By%20Fiscal%20Year.pdf
 
-P&L By Fiscal Months
+➣**P&L By Fiscal Months**
 
 https://github.com/shamiliqbal/AtliQ-Hardware-Finance-Analytics-Report/blob/main/P%26L%20By%20Fiscal%20Months.pdf
 
+➣**GM% By Quarter (sub_zone)**
 
+https://github.com/shamiliqbal/AtliQ-Hardware-Finance-Analytics-Report/blob/main/GM%25%20By%20Quarter%20(sub_zone).pdf
+
+💻🛠️ **Tech Stack**
+
+➣**Pivot Table:**
+
+Pivot tables are used for summarizing, organizing, and analyzing large datasets. In this report, Pivot Tables arem used to generate key financial metrics like Net Sales, COGS (Cost of Goods Sold), and Gross Margin for different periods and regions​.They allow easy comparison of data across time (e.g., fiscal months, quarters) and breakdowns by regions or customers.
+
+➣**Power Query:**
+
+Power Query is used for data transformation and cleaning. In this report, Power have been used to import, clean, and shape data from multiple sources, such as raw sales data, cost data, and regional data. It helps automate these processes before feeding clean data into Pivot Tables or Power Pivot models for analysis​.
+
+➣**DAX (Data Analysis Expressions):**
+
+DAX is a formula language used in Power Pivot and Power BI. In this report, DAX have been utilized for creating calculated columns and measures, such as calculating Gross Margin %, Growth %, and Year-on-Year comparisons. These advanced calculations are crucial for generating dynamic insights into financial performance across different regions and time periods​
+
+➣**Excel charts and graphs**
+
+Excel charts and graphs are used to visually represent data trends (e.g., growth rates, margin percentages).
 
 
