@@ -54,6 +54,10 @@ P&L By Fiscal Year
 
 https://github.com/shamiliqbal/AtliQ-Hardware-Finance-Analytics-Report/blob/main/P%26L%20By%20Fiscal%20Year.pdf
 
+P&L By Fiscal Months
+
+https://github.com/shamiliqbal/AtliQ-Hardware-Finance-Analytics-Report/blob/main/P%26L%20By%20Fiscal%20Months.pdf
+
 
 
 
